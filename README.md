@@ -33,12 +33,11 @@ des capteurs IMU, un filtrage de Kalman et ROS 2.
 
 ### 🤖 Bras robotique souple — ROS 2
 
-Projet de recherche portant sur la modélisation, le contrôle et la validation
-expérimentale d'un bras robotique souple créé par Jaime Bravo Algaba.
+Projet de recherche portant sur l'amélioration du contrôle d'un bras robotique souple créé par Jaime Bravo Algaba.
 
-**ROS 2 · Python/C++ · Robotique · CAO**
+**ROS 2 · Python · Robotique · CAO**
 
-→ [Voir le projet](https://github.com/mateo-gomes/Helios_SoftRobot)
+→ [Voir le projet](https://github.com/Robcib-GIT/Helios_SoftRobot)
 
 ---
 
