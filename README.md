@@ -31,7 +31,7 @@ des capteurs IMU, un filtrage de Kalman et ROS 2.
 
 ---
 
-### 🤖 Bras robotique souple — ROS 2
+### 🦾 Bras robotique souple — ROS 2
 
 Projet de recherche portant sur l'amélioration du contrôle d'un bras robotique souple créé par Jaime Bravo Algaba.
 
@@ -41,7 +41,7 @@ Projet de recherche portant sur l'amélioration du contrôle d'un bras robotique
 
 ---
 
-### 🏎️ Compétition de robotique autonome
+### 🤖 Compétition de robotique autonome
 
 Développement de robots mobiles autonomes pour la Coupe de France de
 Robotique. 
