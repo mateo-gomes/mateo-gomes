@@ -41,10 +41,10 @@ Projet de recherche portant sur l'amélioration du contrôle d'un bras robotique
 
 ---
 
-### 🤖 Compétition de robotique autonome
+### 🤖 Coupe de France de Robotique
 
 Développement de robots mobiles autonomes pour la Coupe de France de
-Robotique. 
+Robotique, en équipe.
 
 #### Edition 2024:
 **Kicad · C · STM32 · Capteurs · Lidar**
