@@ -56,6 +56,8 @@ Robotique, en équipe.
 
 → [Voir le projet](https://github.com/AresEnsea/2324_Projet2A_AresCFR)
 
+---
+
 ### 🚂 Locomotive électrique 
 
 Projet de petit train électrique dans le cadre de l'option Maker de l'ENSEA
